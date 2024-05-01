@@ -13,7 +13,7 @@
    body{
         background-color: var(--cor-de-fundo);
         color: var(--branco);
-        font-family: 'Chakra Petch' , sans-serif;
+        font-family: "Crakra Petch", sans-serif;: 'Chakra Petch' , sans-serif;
     }
 
 .conteudo-principal{
@@ -25,3 +25,21 @@
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+
+}
+
+.titulo-principal{
+    text-align:left;
+    width: 100%;
+    font-size:32px;
+
+}
+.titulo-principal span{
+    color: var;(--verde);
+    font-family:" Crakra Petch",sans-serif;
+    background-color:var(--botao-inativo);
+    color:var9--BRANCO);
+    display: flex;
+    justify
+
+
